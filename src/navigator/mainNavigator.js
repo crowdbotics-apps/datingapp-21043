@@ -15,7 +15,6 @@ import UserProfile125050Navigator from '../features/UserProfile125050/navigator'
 import Settings125049Navigator from '../features/Settings125049/navigator';
 import Settings125047Navigator from '../features/Settings125047/navigator';
 import SignIn2125045Navigator from '../features/SignIn2125045/navigator';
-import SignIn41125042Navigator from '../features/SignIn41125042/navigator';
 
 /**
  * new navigators can be imported here
@@ -34,7 +33,6 @@ UserProfile125050: { screen: UserProfile125050Navigator },
 Settings125049: { screen: Settings125049Navigator },
 Settings125047: { screen: Settings125047Navigator },
 SignIn2125045: { screen: SignIn2125045Navigator },
-SignIn41125042: { screen: SignIn41125042Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
